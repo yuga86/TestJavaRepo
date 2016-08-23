@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TransGuard</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_signup">SignUp</string>
+    <string name="btn_signin">SignIn</string>
+    <string name="lbl_transport">Transport Form</string>
+
+
+    <string name="lbl_username">Driver Name</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_cnfpassword">Conform Password</string>
+
+</resources>
